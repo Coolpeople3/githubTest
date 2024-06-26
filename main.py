@@ -1,7 +1,7 @@
 import random
 score= 0
 print("Copyright 2024 Hitarth Yagnik All rights reserved")
-print("This is a game of higher or lower!")
+print("This is a game of Higher or Lower!")
 print("you must guess if the next number will be higher or lower than the first number")
 print("if you guess correctly you will gain a point")
 print("if you guess wrong, you lose a point")
